@@ -1,7 +1,7 @@
 ## Installation
 Download the code from github
 ```bash
-~$ git clone https://github.com/im-kuro/instagramCrossRefrence/
+~$ git clone https://github.com/im-ryu/instagramCrossRefrence/
 ```
 
 cd into the directory
